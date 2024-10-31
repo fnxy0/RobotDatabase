@@ -1,4 +1,4 @@
-# FinalProject
+# Robot database
 
 C# and SQL project I worked on during my 3rd year of Bachelor studies
 
